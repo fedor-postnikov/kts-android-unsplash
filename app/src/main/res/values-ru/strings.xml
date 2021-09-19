@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Unsplash клиент</string>
+    <string name="skip_button">Пропустить</string>
+    <string name="welcome_phrase">Добро пожаловать в Unsplash</string>
+    <string name="onboarding_general_description">Изображение демонстрирующее интерфейс приложения Unsplash Client</string>
+</resources>
