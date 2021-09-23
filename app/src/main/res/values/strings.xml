@@ -1,3 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">My Unsplash Client</string>
+    <string name="app_name">Unsplash Client</string>
+    <string name="skip_button">Skip</string>
+    <string name="welcome_phrase">Welcome to Unsplash</string>
+    <string name="onboarding_general_description">Image with Unsplash Client app user interface</string>
 </resources>

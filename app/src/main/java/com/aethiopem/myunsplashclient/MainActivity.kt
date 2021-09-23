@@ -1,4 +1,4 @@
-package com.example.myunsplashclient
+package com.aethiopem.myunsplashclient
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
